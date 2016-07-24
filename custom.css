@@ -94,8 +94,9 @@ body{
 }
 .custom_post_headline{
 	font-weight:300;
-	font-size: 18px;
+	font-size: 17px;
 	line-height: 20px;
+	margin-bottom: 5px;
 }
 .custom_post_title{
 	font-weight:600;
